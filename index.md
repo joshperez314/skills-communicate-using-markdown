@@ -5,3 +5,5 @@
 ###### This is an `<h6>` header, which is the smallest
 
 A short, meaningful commit message that describes the change you made to the file.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
